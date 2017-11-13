@@ -1,11 +1,12 @@
+body {
+	background-color: yellow;
+}
+head {
+	
+}
 h3 {
 	color: red;
 }
 h1 {
-	color: blue;
-	background-color: yellow;
-	center: true;
-}
-body {
-	background-color: green;
+	text-align: center;
 }
