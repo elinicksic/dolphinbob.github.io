@@ -1,13 +1,9 @@
 body {
-	background-color: white;
-}
-head {
-	
-}
-h3 {
-	color: red;
+	background: #898e8c;
+	color: #ddd;
+	font-family: helvetica, sans-serif;
 	text-align: center;
 }
-h1 {
-	text-align: center;
+a {
+	color: #c0c0c0;
 }
