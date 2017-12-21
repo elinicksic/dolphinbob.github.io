@@ -8,3 +8,27 @@ body {
 a {
 	color: #d0d0d0;
 }
+
+.topnav {
+  overflow: hidden;
+  background-color: #0000ff;
+}
+
+.topnav a {
+  float: left;
+  color: #d0d0d0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #3399ff;
+  /*color: black;*/
+}
+
+.topnav a.active {
+  background-color: #ff6600;
+  color: white;
+}
