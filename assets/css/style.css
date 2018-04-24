@@ -1,17 +1,17 @@
 body {
-	background: #898e8c;
-	color: #ddd;
+	background: #99ccff;
+	color: #333333;
 	font-family: helvetica, sans-serif;
 	text-align: center;
 	zoom: 150%;
 }
 a {
-	color: #d0d0d0;
+	color: red;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #0000ff;
+  background-color: #004080;
 }
 
 .topnav a {
@@ -22,16 +22,16 @@ a {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-}
+  }
 
 .topnav a:hover {
-  background-color: #3399ff;
+  background-color: #0066cc;
   /*color: black;*/
 }
 
 .active {
-  background-color: #ff6600;
-  color: white;
+  background-color: #00264d;
+  color: black;
 }
 .topnav .icon {
     display: none;
@@ -56,4 +56,8 @@ a {
     display: block;
     text-align: left;
   }
+}
+
+div#TopNav{
+  box-shadow: 5px 5px #999999;
 }
